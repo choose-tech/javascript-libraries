@@ -1,6 +1,4 @@
-> TODO: once repo is created from this template, replace all occurences of "template" and remove this comment.
-
-# template comparison
+# Javascript libraries comparison
 
 ## Structure
 

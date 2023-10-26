@@ -4,11 +4,11 @@ import chooseTechIntegration from "@choose-tech/astro";
 export default defineConfig({
   integrations: [
     chooseTechIntegration({
-      base: "/template",
-      title: "Template",
-      description: "",
-      color: "#3b82f6",
-      repo: "choose-tech/template",
+      base: "/javascript-libraries",
+      title: "JS Libraries",
+      description: "Easily compare various JS/TS libraries from the community.",
+      color: "#F7DF1E",
+      repo: "choose-tech/javascript-libraries",
       logoFilename: "logo.svg",
     }),
   ],
